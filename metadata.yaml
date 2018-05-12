@@ -1,0 +1,30 @@
+_repo: George-WhitefieldA-Biography-with-special-reference-to-his-labors-in-America_44140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44140-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Belcher, Joseph
+    aliases:
+    - Josephus, Uncle
+    - Uncle Josephus
+    birthdate: 1794
+    deathdate: 1859
+    gutenberg_agent_id: '42605'
+    url: http://www.gutenberg.org/2009/agents/42605
+description: ''
+gutenberg_issued: '2013-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44140'
+  lccn: 01021297
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whitefield, George, 1714-1770'
+- !lcc 'BX'
+title: 'George Whitefield: A Biography, with special reference to his labors in America'
+url: http://www.gutenberg.org/ebooks/44140
